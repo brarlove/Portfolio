@@ -136,6 +136,8 @@ About Section
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  margin: 50px;
+  margin-left: 5px;
 }
 
 .project-button{
