@@ -136,8 +136,30 @@ About Section
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin: 50px;
-  margin-left: 5px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.Calculator{
+  background-image: url("../assets/img/calculator.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.Weather-app{
+  background-image: url("../assets/img/weatherapp.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .project-button{
